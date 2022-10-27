@@ -10,6 +10,6 @@ can be defined (in typical cron definiton, like for example `0 0 * * *`, which i
 
 ## Usage
 
-Use the image in your docker/compose/kubernetes projects with the address `ghcr.io/dodevops/docker-registry-with-cleanup:latest`
+Use the image in your docker/compose/kubernetes projects with the address `ghcr.io/dodevops/docker-registry-with-cleanup:main`
 for the latest image. Other versions can be found under 
 [container packages](https://github.com/dodevops/docker-registry-with-cleanup/pkgs/container/docker-registry-with-cleanup)
